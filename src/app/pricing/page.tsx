@@ -604,7 +604,7 @@ const Prising = () => {
         </div>
 
         {/* footer */}
-        {/* <Footer /> */}
+        <Footer />
       </div>
 
     </div>
