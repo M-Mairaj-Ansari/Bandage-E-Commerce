@@ -26,7 +26,7 @@ const FeaturedPosts = () => {
                   <span className='font-[400] text-12px text-[#737373] mr-3'>Trending</span>
                   <span className='font-[400] text-12px text-[#737373] mr-3'>New</span>
                 </h6>
-                <h4 className='font-[400] text-[20px] text-[#252B42] py-2'>Loudest à la Madison #1 (L'integral)</h4>
+                <h4 className='font-[400] text-[20px] text-[#252B42] py-2'>Loudest a la Madison #1 (L'integral)</h4>
                 <p className='font-[400] text-[14px] text-[#737373] py-2'>
                   We focus on ergonomics and meeting you where you work. It's only a keystroke away.
                 </p>
@@ -54,7 +54,7 @@ const FeaturedPosts = () => {
                   <span className='font-[400] text-12px text-[#737373] mr-3'>Trending</span>
                   <span className='font-[400] text-12px text-[#737373] mr-3'>New</span>
                 </h6>
-                <h4 className='font-[400] text-[20px] text-[#252B42] py-2'>Loudest à la Madison #1 (L'integral)</h4>
+                <h4 className='font-[400] text-[20px] text-[#252B42] py-2'>Loudest a la Madison #1 (L'integral)</h4>
                 <p className='font-[400] text-[14px] text-[#737373] py-2'>
                   We focus on ergonomics and meeting you where you work. It's only a keystroke away.
                 </p>
@@ -82,7 +82,7 @@ const FeaturedPosts = () => {
                   <span className='font-[400] text-12px text-[#737373] mr-3'>Trending</span>
                   <span className='font-[400] text-12px text-[#737373] mr-3'>New</span>
                 </h6>
-                <h4 className='font-[400] text-[20px] text-[#252B42] py-2'>Loudest à la Madison #1 (L'integral)</h4>
+                <h4 className='font-[400] text-[20px] text-[#252B42] py-2'>Loudest a la Madison #1 (L'integral)</h4>
                 <p className='font-[400] text-[14px] text-[#737373] py-2'>
                   We focus on ergonomics and meeting you where you work. It's only a keystroke away.
                 </p>

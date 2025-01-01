@@ -155,7 +155,7 @@ const ContactUs = () => {
                             WE CAN'T WAIT TO MEET YOU
                         </h5>
                         <h1 className="font-Montserrat font-bold text-[40px] lg:text-[58px] leading-[48px] lg:leading-[80px] tracking-[0.2px] text-[#252B42]">
-                            Let’s Talk
+                            Let,s Talk
                         </h1>
                         <button className="rounded-[5px] py-[12px] px-[20px] lg:py-[15px] lg:px-[40px] bg-[#23A6F0] text-white font-Montserrat font-bold text-[14px] leading-[22px]">
                             Try it free now

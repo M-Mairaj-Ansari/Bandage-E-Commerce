@@ -561,14 +561,14 @@ const Prising = () => {
           <div className="flex flex-col items-center gap-[36px] w-[607px] lg:w-[1050px] lg:h-[602px]">
 
             {/* Main content */}
-            <div className="flex flex-col items-center gap-[30px] w-[547px] lg:w-[547px] h-[282px]">
+            <div className="flex flex-col items-center gap-[30px] w-[540px] lg:w-[547px] h-[282px]">
 
               <h2 className="font-Montserrat font-bold lg:text-[40px] text-[20px] leading-[50px] text-center text-[#252B42] w-full">
                 Start your 14 days free trial
               </h2>
 
               <h6 className="font-Montserrat font-normal text-[14px] leading-[20px] text-center text-[#737373] w-[411px]">
-                Met minim Mollie non desert Alamo est sit cliquey dolor
+                Met minim Mollie non desert Alamo est sit cliquey dolor  
                 do met sent. RELIT official consequent.
               </h6>
               <div className="flex flex-row items-center gap-[10px]">
@@ -604,7 +604,7 @@ const Prising = () => {
         </div>
 
         {/* footer */}
-        <Footer />
+        {/* <Footer /> */}
       </div>
 
     </div>

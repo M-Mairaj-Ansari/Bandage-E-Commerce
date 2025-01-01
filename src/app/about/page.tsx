@@ -307,7 +307,7 @@ const About = () => {
                 <section className="relative w-full h-[636px] flex bg-[#2A7CC7] justify-center items-center mt-[-30px]">
 
                     {/* left Blue Section */}
-                    <div className="w-[1440px] md:w-1/2 h-full bg-[#2A7CC7] lg:px-[250px] lg:ml-[0px] ml-[50px] py-16  flex flex-col justify-center">
+                    <div className="w-full md:w-1/2 h-full bg-[#2A7CC7] lg:px-[250px] lg:ml-[0px] ml-[50px] py-16  flex flex-col justify-center">
                         <div className="w-[438px] flex flex-col gap-[24px]">
                             <h5 className="text-white text-lg font-bold leading-[24px] tracking-[0.1px]">WORK WITH US</h5>
                             <h2 className="text-white text-4xl font-bold leading-[50px] tracking-[0.2px]">
