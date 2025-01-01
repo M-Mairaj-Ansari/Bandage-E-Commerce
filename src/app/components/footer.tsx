@@ -98,7 +98,7 @@ const Footer = () => {
             {/* Bottom Section */}
             <section className="bg-[#FAFAFA] py-4">
                 <div className="max-w-screen-xl mx-auto flex justify-center items-center md:justify-start">
-                    <p className="text-[#727272] text-sm font-bold">Made with love by Ashna. All rights reserved.</p>
+                    <p className="text-[#727272] text-sm font-bold">Made with love by Mairaj Ansari. All rights reserved.</p>
                     <div className="flex gap-4">
                        
                     </div>
